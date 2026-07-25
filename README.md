@@ -1,8 +1,8 @@
-BootArchive: The OS Boot Screen Collection
+# BootArchive: The OS Boot Screen Collection
 
 BootArchive is a premium, interactive digital museum dedicated to the visual evolution of operating system startup sequences. This project serves as a technical tribute to the "first impression" of computing history, documenting the shift from 1970s character-based terminals to modern, high-fidelity graphical animations.
 
-Core Features
+## Core Features
 
 Chronological Museum Archive: A curated collection of 15+ boot screen simulations, sorted by year, allowing users to trace the evolution of UI design from the 1970s to the 2026 Quantum Era.
 
@@ -12,11 +12,11 @@ Era-Specific Aesthetics: Each entry utilizes distinct Google Font stacks (VT323,
 
 Interactive Discovery: Features a "Surprise Me" engine, search-driven navigation, and a focus on educational accessibility.
 
-Visual & Technical Philosophy
+## Visual & Technical Philosophy
 
 BootArchive avoids modern "fade-in" UI patterns during simulation, favoring the crisp, line-by-line terminal output characteristic of real system kernel initializations. The platform is designed to feel like a high-end technical archive, utilizing dark-mode glassmorphism, precise typography, and a robust, state-managed SPA architecture.
 
-Technical Stack
+## Technical Stack
 
 Framework: Vanilla HTML5, CSS3, and JavaScript (ES6+).
 
@@ -26,7 +26,7 @@ Typography: A curated selection of web fonts (Inter, JetBrains Mono, VT323, Orbi
 
 Responsiveness: Fully mobile-optimized layout with touch-friendly navigation and high-contrast UI components.
 
-Licensing & Credits
+## Licensing & Credits
 
 BootArchive is an educational project. All boot sequences are original, simulated recreations. It does not contain proprietary code or copyrighted assets from actual operating system vendors.
 
